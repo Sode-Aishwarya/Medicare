@@ -32,6 +32,7 @@ clinic – Clinic details
 #### Project Structure:
 
 #### Example file structure:
+```
 project/
 │
 ├── login.php
@@ -44,7 +45,7 @@ project/
 ├── medical_records.php
 ├── db.php
 └── auth.php
-
+```
 #### Installation Steps:
 
 S1.Install XAMPP.
@@ -64,5 +65,3 @@ Integrate email notifications for appointment reminders
 
 Aishwarya
 Engineering Student – Computer Science(BMSIT)
-
-If you want, I can also give you a more professional README that makes your GitHub project look like a real software project (with badges, screenshots, and architecture diagram).
