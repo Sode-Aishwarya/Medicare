@@ -31,8 +31,7 @@ clinic – Clinic details
 
 #### Project Structure:
 
-##### Example file structure:
-
+#### Example file structure:
 project/
 │
 ├── login.php
