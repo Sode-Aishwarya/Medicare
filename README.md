@@ -63,5 +63,4 @@ Integrate email notifications for appointment reminders
 
 #### Author
 
-Aishwarya
-Engineering Student – Computer Science(BMSIT)
+Sode Aishwarya(BMSIT)
